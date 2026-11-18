@@ -1,0 +1,6 @@
+{
+  "name": "Hangs Burguer — Belém, PA",
+  "description": "Muito mais que sabor. Um ponto de encontro para bons momentos! Mais de 20 anos de tradição na Cidade Velha, agora de casa nova na Av. Almirante Tamandaré.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
